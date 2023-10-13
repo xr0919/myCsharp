@@ -1,0 +1,14 @@
+D:\myC#\01C#\04变量\bin\Debug\net7.0\04变量.exe
+D:\myC#\01C#\04变量\bin\Debug\net7.0\04变量.deps.json
+D:\myC#\01C#\04变量\bin\Debug\net7.0\04变量.runtimeconfig.json
+D:\myC#\01C#\04变量\bin\Debug\net7.0\04变量.dll
+D:\myC#\01C#\04变量\bin\Debug\net7.0\04变量.pdb
+D:\myC#\01C#\04变量\obj\Debug\net7.0\04变量.GeneratedMSBuildEditorConfig.editorconfig
+D:\myC#\01C#\04变量\obj\Debug\net7.0\04变量.AssemblyInfoInputs.cache
+D:\myC#\01C#\04变量\obj\Debug\net7.0\04变量.AssemblyInfo.cs
+D:\myC#\01C#\04变量\obj\Debug\net7.0\04变量.csproj.CoreCompileInputs.cache
+D:\myC#\01C#\04变量\obj\Debug\net7.0\04变量.dll
+D:\myC#\01C#\04变量\obj\Debug\net7.0\refint\04变量.dll
+D:\myC#\01C#\04变量\obj\Debug\net7.0\04变量.pdb
+D:\myC#\01C#\04变量\obj\Debug\net7.0\04变量.genruntimeconfig.cache
+D:\myC#\01C#\04变量\obj\Debug\net7.0\ref\04变量.dll
